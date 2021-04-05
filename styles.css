@@ -1,0 +1,11 @@
+.material-icons {
+  vertical-align: text-bottom;
+}
+
+.nav-link.active {
+  background-color: #dc3545 !important;
+}
+
+.nav-link {
+  color: #dc3545;
+}
